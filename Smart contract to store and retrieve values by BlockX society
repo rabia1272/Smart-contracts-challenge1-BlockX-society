@@ -1,4 +1,4 @@
-ragma solidity ^0.7;
+pragma solidity ^0.7;
 contract task1{
     uint public count;
     
